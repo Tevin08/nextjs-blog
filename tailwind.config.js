@@ -3,6 +3,6 @@ module.exports = {
       './pages/**/*.{js,ts,jsx,tsx}',
       './components/**/*.{js,ts,jsx,tsx}',
       // For the best performance and to avoid false positives,
-      // be as specific as possible with your content configuration.
+      // be as specific as possible th your content configuration.
     ],
   };
