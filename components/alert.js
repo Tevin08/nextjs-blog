@@ -9,7 +9,7 @@ export default function Alert({ children, type }) {
         [styles.error]: type === 'error',
       })}
     >
-      {children}
+      <h1 className='text-red-400'>Ola</h1>
     </div>
   );
 }
