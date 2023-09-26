@@ -24,18 +24,7 @@ export default function Home() {
       </section>
     </Layout>
     <section>
-      <Projetos>
-
-      <div>
-        <h1>
-          Meus Projetos
-        </h1>
-       
-      </div>
-      <div>
-     
-      </div>
-      </Projetos>
+     <Projetos/>
     </section>
       </main>
 
